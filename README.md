@@ -23,3 +23,18 @@ Please provide information for any third party library and tool you are using.
 
 
 **A clean, well-animated, beautiful UI is very important. Please, let your imagination fly here.**
+
+
+
+Implemented
+=======================
+Implemented but don't have time to finish it.
+
+Missing the read/write to storage.
+Missing the UI polish.
+Missing the corret support for tablet.
+Missing the correct images assets.
+
+![ScreenShot](https://cloud.githubusercontent.com/assets/506560/5844041/96493dba-a1b9-11e4-968f-43b8fdce5534.png)
+
+
